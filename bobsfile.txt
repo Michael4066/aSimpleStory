@@ -1,1 +1,3 @@
 Hello I'm Bobbini
+
+I'm doing work but I have the sense to pull from github first before committing and pushing changes.
